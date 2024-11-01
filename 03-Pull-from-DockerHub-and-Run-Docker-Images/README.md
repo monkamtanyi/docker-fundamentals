@@ -4,7 +4,7 @@
 ```
 docker version
 docker login
-```
+``'
 
 ## Step-2: Pull Image from Docker Hub
 ```
