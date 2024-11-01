@@ -42,9 +42,9 @@ kalyanreddy@Kalyans-Mac-mini-2 ~ %
 
 ## Step-4: List Running Containers
 ```
-docker ps
-docker ps -a
-docker ps -a -q
+docker ps     currently running Docker containers. output:container ID, image, command, creation time, status, ports,
+docker ps -a  running, stopped, or have exited. Output:CONTAINER ID, IMAGE, COMMAND, CREATED, STATU
+docker ps -a -q   Lists only the container IDs of all containers, including running and stopped ones.
 ```
 
 ## Step-5: Connect to Container Terminal
